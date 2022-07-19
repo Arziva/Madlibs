@@ -10,8 +10,8 @@ adj = input("Adjective:")
 verb1 = input("verb1:")
 verb2 = input("verb2:")
 
-string1 = f"The world is so {adj}! \
+string = f"The world is so {adj}! \
     It makes me super {verb1} and {verb2}"
 
-print(string1)
+print(string)
 
