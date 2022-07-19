@@ -1,6 +1,6 @@
 #string concatenation
 
-student = ""
+student = "Suresh"
 
 print("The best coder is: " + student)
 print("The best coder is:{}".format(student))
